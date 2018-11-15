@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebForm1.aspx](./CS/Dashboard_ClientSideParameters/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/Dashboard_ClientSideParameters/WebForm1.aspx))
+<!-- default file list end -->
 # [OBSOLETE] How to specify dashboard parameter values on the client side
 
 
