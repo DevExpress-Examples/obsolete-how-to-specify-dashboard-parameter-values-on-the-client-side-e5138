@@ -4,6 +4,9 @@
 * [WebForm1.aspx](./CS/Dashboard_ClientSideParameters/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/Dashboard_ClientSideParameters/WebForm1.aspx))
 <!-- default file list end -->
 # [OBSOLETE] How to specify dashboard parameter values on the client side
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e5138)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to specify dashboard parameter values on the <a href="http://documentation.devexpress.com/#Dashboard/CustomDocument17375">client side</a>.</p>
